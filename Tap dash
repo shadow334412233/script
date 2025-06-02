@@ -1,0 +1,21 @@
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
+  "DFIntTaskSchedulerTargetFps": "9999",
+  "FFlagFixGraphicsQuality": "True",
+  "DFFlagDisableDPIScale": "True",
+  "FFlagOptimizeNetwork": "True",
+  "FFlagOptimizeNetworkRouting": "True",
+  "FFlagOptimizeNetworkTransport": "True",
+  "FFlagOptimizeServerTickRate": "True",
+  "DFIntServerTickRate": "60",
+  "DFIntRakNetResendRttMultiple": "1",
+  "DFIntRaknetBandwidthPingSendEveryXSeconds": "1",
+  "DFIntOptimizePingThreshold": "50",
+  "DFIntPlayerNetworkUpdateQueueSize": "20",
+  "DFIntPlayerNetworkUpdateRate": "60",
+  "DFIntNetworkPrediction": "120",
+  "DFIntNetworkLatencyTolerance": "1",
+  "DFIntMinimalNetworkPrediction": "1",
+  "DFIntMaxMissedWorldStepsRemembered": "1000"
+}
